@@ -1,0 +1,52 @@
+.name{
+    font-size: 40px;
+    color: rgba(158, 250, 10, 0.973);
+    border: 3px dotted palevioletred;
+    margin: auto;
+    padding: 20px 450px;
+    background-color: darkgray;
+}
+
+img{
+    width: 20%;
+}
+
+button{
+    border: 10px solid;
+    border-color: rgb(167, 167, 175);
+    border-radius: 500px;
+    margin-top: 5%;
+    font-size: 40px;
+    background-color: rgb(190, 190, 218);
+    font: rgb(249, 249, 250);
+}
+.fe{
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+    font-size: 30px;
+}
+#p7{
+    background-color: rgb(234, 238, 10);
+}
+.fe{
+    background-color: rgb(243, 9, 9);
+}
+.male{
+    font-size: 40px;
+    background-color: green;
+    color: aqua;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+#Facebook{
+        color: blue;
+        font-style: italic;
+        font-size: 30px;}
+
+p{
+font-size: 25px;
+color: rgba(0, 143, 31, 0.521);
+}
